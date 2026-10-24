@@ -52,7 +52,7 @@ Drawing from the mathematical foundation of the Cuban School of Computing while 
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/dlampatricio/better-reports">
-        <img src="https://dlampatricio.github.io/better_reports/og-image.png" width="100%" alt="Better Reports preview" />
+        <img src="https://dlampatricio.github.io/better_reports/og-image.webp" width="100%" alt="Better Reports preview" />
       </a>
       <h3><a href="https://github.com/dlampatricio/better-reports">Better Reports</a> · <a href="https://better-reports-docs.vercel.app">Docs</a></h3>
       <sub>Self-hosted Typst template engine with Rust + NAPI-RS. Compiles directly to PDF with no Chromium or external services.</sub>
@@ -61,7 +61,7 @@ Drawing from the mathematical foundation of the Cuban School of Computing while 
     </td>
     <td width="50%" valign="top" >
       <a href="https://github.com/dlampatricio/lamubi">
-        <img src="https://dlampatricio.github.io/lamubi/opengraph-image.png" width="100%" alt="La Mubi preview" />
+        <img src="https://dlampatricio.github.io/lamubi/opengraph-image.webp" width="100%" alt="La Mubi preview" />
       </a>
       <h3><a href="https://github.com/dlampatricio/lamubi">La Mubi</a> · <a href="https://lamubi.vercel.app">Live</a></h3>
       <sub>Local multiplayer movie charades. Classic & Impostor modes with real-time flow powered by the TMDB API.</sub>
@@ -81,7 +81,7 @@ Drawing from the mathematical foundation of the Cuban School of Computing while 
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/dlampatricio/la_llave">
-        <img src="https://dlampatricio.github.io/lallave/og-image.png" width="100%" alt="La Llave preview" />
+        <img src="https://dlampatricio.github.io/lallave/og-image.webp" width="100%" alt="La Llave preview" />
       </a>
       <h3><a href="https://github.com/dlampatricio/la_llave">La Llave</a> · <a href="https://lallaveferreteria.vercel.app">Live</a></h3>
       <sub>Fullstack e-commerce for a local hardware store. Public catalog, WhatsApp quote cart and complete admin panel.</sub>
