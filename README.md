@@ -54,7 +54,7 @@ Drawing from the mathematical foundation of the Cuban School of Computing while 
       <a href="https://github.com/dlampatricio/better-reports">
         <img src="https://dlampatricio.github.io/better_reports/og-image.png" width="100%" alt="Better Reports preview" />
       </a>
-      <h3><a href="https://github.com/dlampatricio/better-reports">Better Reports</a></h3>· <a href="https://better-reports-docs.vercel.app">Live</a></h3>
+      <h3><a href="https://github.com/dlampatricio/better-reports">Better Reports</a> · <a href="https://better-reports-docs.vercel.app">Docs</a></h3>
       <sub>Self-hosted Typst template engine with Rust + NAPI-RS. Compiles directly to PDF with no Chromium or external services.</sub>
       <br><br>
       <sub><code>Rust</code> · <code>React</code> · <code>TypeScript</code> · <code>Tailwind CSS</code> · <code>Docker</code> · <code>Monaco Editor</code></sub>
